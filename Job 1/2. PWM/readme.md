@@ -6,6 +6,7 @@
 Rangkaian pada percobaan ini adalah sebagai berikut
 
 ![4](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/397beb2c-5844-4d53-8a8f-41656c01eb46)
+<br>
 ![1](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/c610bc12-ed3e-4a0a-b039-e06f07451371)
 
 
@@ -25,6 +26,7 @@ https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/7721d583-292b-4d2d-
 Rangkaian pada percobaan ini adalah sebagai berikut
 
 ![4](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/397beb2c-5844-4d53-8a8f-41656c01eb46)
+<br>
 ![2](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/97fd4999-4f20-4050-bd60-ba675a588dad)
 
 
