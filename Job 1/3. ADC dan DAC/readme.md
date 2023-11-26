@@ -2,10 +2,13 @@
 
 ## 1. ADC dan DAC | Membaca Nilai Analog dari Potensiometer
 
-### a. Rangkaian
+### a. Rangkaian dan Flowchart
 Rangkaian pada percobaan ini adalah sebagai berikut
 
 ![5](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/724ff1b9-da4c-481d-a303-d9f6f9638d49)
+<br>
+![1](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/f3beb30c-2af2-4a0f-9526-125e220fa4be)
+
 
 
 ### b. Source Code
@@ -19,10 +22,13 @@ https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/dcc24334-893e-4070-
 
 ## 2. ADC dan DAC | Mengatur Kecerahan LED Menggunakan Potensiometer
 
-### a. Rangkaian
+### a. Rangkaian dan Flowchart
 Rangkaian pada percobaan ini adalah sebagai berikut
 
 ![5](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/724ff1b9-da4c-481d-a303-d9f6f9638d49)
+<br>
+![2](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/1fc8e52d-35da-408d-8010-c51f6ff6d060)
+
 
 ### b. Source Code
 Kode program : <a href="ADC%20dan%20DAC/ADC%20dan%20DAC/ADC_2/ADC_2.ino">klik di sini</a>
