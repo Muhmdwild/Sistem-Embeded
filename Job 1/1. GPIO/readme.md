@@ -2,11 +2,12 @@
 
 ## 1. GPIO | LED Blink
 
-### a. Rangkaian
+### a. Rangkaian dan Flowchart
 Rangkaian pada percobaan ini adalah sebagai berikut
 
 ![image](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/65dbb26b-6521-4052-b273-9f35197104a2)
 
+![1](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/cb71d022-a172-451e-8a3c-9e0e56b9522d)
 
 ### b. Source Code
 Kode program : <a href="GPIO_1.2/GPIO_1.ino">di sini</a>
@@ -29,10 +30,12 @@ https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/925ad849-8336-4624-
 
 ## 2. GPIO | pushbutton1 - LED menyala saat push button ditekan
 
-### a. Rangkaian
+### a. Rangkaian dan Flowchart
 Rangkaian pada percobaan ini adalah sebagai berikut
 
 ![image](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/65dbb26b-6521-4052-b273-9f35197104a2)
+![2](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/187cfb03-9d90-46da-baf1-aec70dffe744)
+
 
 ### b. Source Code
 Kode program : <a href="GPIO_1.3%20Tambahkan%201%20LED%20dan%201%20push%20button%20pada%rangkaian/GPIO_1.2.ino">klik di sini</a>
@@ -45,10 +48,12 @@ https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/d44359e2-6291-465f-
 
 ## 3. GPIO | pushbutton2 - LED blink saat push button ditekan
 
-### a. Rangkaian
+### a. Rangkaian dan Flowchart
 Rangkaian pada percobaan ini adalah sebagai berikut
 
 ![2](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/2554792d-22ef-40e7-85aa-cfee5868b7e8)
+
+![3](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/a272d524-1628-44df-ab67-8df81858010c)
 
 
 ### b. Source Code
@@ -62,10 +67,11 @@ https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/7afb4696-8ed7-48c6-
 
 ## 4. GPIO | pushbutton3 - LED menyala dari kiri ke kanan berurutan saat pushbutton ditekan
 
-### a. Rangkaian
+### a. Rangkaian dan Flowchart
 Rangkaian pada percobaan ini adalah sebagai berikut
 
 ![3](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/82cf5654-c32a-495c-9f1e-cf05f9523a3b)
+![4](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/e578ae80-43bc-4240-8e65-cbe8a204c1de)
 
 
 ### b. Source Code
