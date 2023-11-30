@@ -4,6 +4,7 @@
 Rangkaian pada percobaan ini adalah sebagai berikut
 
 ![1](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/42b2f227-052c-4dce-8b15-0e4c196ddd33)
+![Picture4](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/fa59a318-3f72-40d7-9898-5a43c0ffcce0)
 
 
 ### b. Source Code
