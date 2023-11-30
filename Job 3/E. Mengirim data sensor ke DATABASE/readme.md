@@ -3,7 +3,10 @@
 ### a. Rangkaian dan flowchart
 Rangkaian pada percobaan ini adalah sebagai berikut
 
-![1](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/42b2f227-052c-4dce-8b15-0e4c196ddd33)
+![2](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/3b4f9e8c-e134-4dd9-913c-0d82a5442a92)
+![Picture5](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/d9c3c75c-85d2-4178-8b2a-7e67cbe23a11)
+
+
 
 
 ### b. Source Code
