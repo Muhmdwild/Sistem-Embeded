@@ -1,12 +1,13 @@
 # A.  ESP32 Wi-Fi Modes dan Wifi-Scan
 
 
-### a. Rangkaian
+### a. Rangkaian dan flowchart
 Rangkaian pada percobaan ini adalah sebagai berikut
 </br>
 
 ![1](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/e74ad583-8381-4480-8ee3-a962686268cf)
 
+![Picture1](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/d79e1f22-cdc4-4271-9d65-0d598442807b)
 
 
 ### b. Source Code
