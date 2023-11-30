@@ -3,6 +3,8 @@
 
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
+</br>
+
 ![1](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/e74ad583-8381-4480-8ee3-a962686268cf)
 
 
