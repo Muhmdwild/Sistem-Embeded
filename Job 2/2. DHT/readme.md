@@ -2,6 +2,7 @@
 ## 1. DHT Single Wire
 ### a. Rangkaian dan Flowchart
 Rangkaian pada percobaan ini adalah sebagai berikut
+</br>
 ![Screenshot 2023-11-28 150136](https://github.com/AmaliaPrisca/SISTEMEMBEDDED/assets/145273945/4fda8a34-ec2f-4278-a6c5-e5d72c44b2b2)
 
 
