@@ -2,7 +2,8 @@
 
 
 ### a. Rangkaian dan flowchart
-Rangkaian pada percobaan ini adalah sebagai berikut
+Rangkaian pada percobaan ini adalah sebagai berikut :
+
 ![1](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/b0c68dac-6833-4e1e-b1e8-c61813f07cb2)
 
 
