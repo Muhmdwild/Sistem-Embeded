@@ -18,10 +18,24 @@ ADAFRUIT :
 Berikut ini adalah Kode program Diatas : 
 
 Node-RED : <a href="/1/1.ino">di sini</a>
+
 ADAFRUIT : <a href="/2/2.ino">di sini</a>
 
 ### c. Hasil dan Pembahasan
-Percobaan D melibatkan akuisisi data dan kendali perangkat IoT menggunakan protokol MQTT, sebuah konsep di mana perangkat Internet of Things (IoT) mengumpulkan data dan menerima instruksi kendali melalui protokol komunikasi MQTT (Message Queuing Telemetry Transport). Perangkat IoT ini mengumpulkan data dari berbagai sensor atau sumber data lainnya, seperti suhu, kelembaban, atau tingkat cahaya, yang relevan dengan lingkungan atau keperluan aplikasi. Setelah mengumpulkan data, perangkat atau server dapat melakukan berbagai tindakan seperti penyimpanan, analisis, atau pengambilan keputusan.
+<p align="justify">Percobaan D melibatkan akuisisi data dan kendali perangkat IoT menggunakan protokol MQTT, sebuah konsep di mana perangkat Internet of Things (IoT) mengumpulkan data dan menerima instruksi kendali melalui protokol komunikasi MQTT (Message Queuing Telemetry Transport). Perangkat IoT ini mengumpulkan data dari berbagai sensor atau sumber data lainnya, seperti suhu, kelembaban, atau tingkat cahaya, yang relevan dengan lingkungan atau keperluan aplikasi. Setelah mengumpulkan data, perangkat atau server dapat melakukan berbagai tindakan seperti penyimpanan, analisis, atau pengambilan keputusan.
 Fungsi setup_wifi() bertanggung jawab atas inisialisasi koneksi WiFi pada perangkat ESP32, memastikan koneksi ke jaringan WiFi sebelum melakukan koneksi ke server MQTT. Fungsi reconnect() mengatur logika penyambungan ulang ke server MQTT jika terjadi gangguan koneksi. Setelah berhasil terhubung, perangkat akan subscribe ke topik "flood/node1" untuk menerima pesan. Ketika ada pesan masuk dari server MQTT, fungsi callback() akan dipanggil dan pesan tersebut akan dicetak ke Serial Monitor.
-Inisialisasi client MQTT terjadi dalam fungsi setup() menggunakan client.setServer() dan client.setCallback(). Pada loop utama (loop()), perangkat terus memanggil fungsi client.loop(), memastikan perangkat dapat terus memproses pesan yang diterima dan menjaga koneksi ke server MQTT jika diperlukan.
+Inisialisasi client MQTT terjadi dalam fungsi setup() menggunakan client.setServer() dan client.setCallback(). Pada loop utama (loop()), perangkat terus memanggil fungsi client.loop(), memastikan perangkat dapat terus memproses pesan yang diterima dan menjaga koneksi ke server MQTT jika diperlukan.</p>
 
+Node-RED :
+
+1. Dashboard
+   ![1 dashoard](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/1b52dff8-d565-476d-884e-e33f527b0324)
+
+2. Hasil
+   ![1 hasil](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/d9c088f8-b307-44a8-be25-0d1b3702fbb3)
+
+ADAFRUIT :
+
+1.  Dashboard
+   
+2.  Hasil
