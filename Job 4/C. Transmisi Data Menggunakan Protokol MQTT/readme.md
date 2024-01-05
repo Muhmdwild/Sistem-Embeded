@@ -19,3 +19,18 @@ Fungsi setup_wifi() memiliki tanggung jawab menginisialisasi koneksi WiFi pada p
 
 Client MQTT diinisialisasi dengan menggunakan fungsi client.setServer() dan diperbarui melalui pemanggilan fungsi client.loop() pada loop utama. Data yang dikirimkan ke server MQTT diformat dalam bentuk JSON menggunakan library ArduinoJson. Informasi seperti dev_id, level, rainfall, dan flow dimasukkan ke dalam objek JSON dan diubah menjadi string JSON. Data yang telah diformat dalam format JSON kemudian dikirimkan ke server MQTT melalui fungsi client.publish("flood/node1", payload), yang bertujuan untuk mempublikasikan data ke topik "flood/node1" pada server MQTT.
 
+Hasil :
+
+1. Status Koneksi
+
+   ![status koneksi](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/2e078d79-2c3c-4d07-ac8d-c24d46635981)
+
+3. Debug
+
+   ![debug](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/534d102e-e7ac-49d0-bc8d-17b763bcd041)
+
+4. Dashboard
+
+   ![dashboard](https://github.com/Muhmdwild/Sistem-Embeded/assets/150982519/1620a30d-61ea-423d-a7a9-c1a8dd770960)
+
+
